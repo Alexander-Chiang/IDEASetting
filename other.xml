@@ -1,0 +1,104 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Java</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>GeneralJava</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:C:/_Work/develop/01 eclipse configs/smart_formatter.xml" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="ColorChooser.RecentColors" value="138-101-59-255,,,96-139-60-255,,,41-207-190-255,,,255-143-255-255,,,190-75-79-255,,,180-134-0-255,,,250-109-15-255,,,255-198-109-255,,,116-117-68-255,,,54-78-198-255,,,109-126-198-255,,,173-172-255-255,,,181-137-0-255,,,181-122-116-255,,,32-88-220-255,,,7-54-66-255,,,0-43-54-255,,,0-76-90-255,,,4-48-54-255,,,43-43-43-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.61103255" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DBE.Default.Dialect" value="MySQL" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="Class" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.1367989" />
+    <property name="INSPECTION_FILTER_HISTORY" value="Duplicated Code" />
+    <property name="InstalledPluginsSearchHistory" value="Settings&#10;Settings Sync&#10;tomcat&#10;VisualVM Launcher&#10;VisualVM" />
+    <property name="JUnit.Splitter.Proportion" value="0.15663475" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="maven&#10;import&#10;JavaDoc Issues&#10;tomcat&#10;color" />
+    <property name="SpringBeansModulesPanel[0]" value="0.1367989" />
+    <property name="SpringMvcModulesPanel[0]" value="0.1367989" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="TrendingPluginsSearchHistory" value="javadoc&#10;MyBatis&#10;FindBugs-IDEA&#10;find&#10;jacoco" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.remoteServer.impl.runtime.ui.DefaultRemoteServersViewContribution.0" value="174" />
+    <property name="create.project.preferred.importer" value="Eclipse" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="eclipse.project.dir" value="C:\_Develop\repo\0102_dhome_activity.git" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt3.183" value="13" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/OneDrive/图片/IDEA-backgroud.jpg&#10;C:/Users/Y/OneDrive/图片/壁纸/水果/1359506974mPUkV7.jpg&#10;C:/Users/Y/Downloads/MybatisCodeHelperNew-2.2-IDEA173-IDEA183 (1).zip&#10;C:/Users/Y/Downloads/MyBatisCodeHelper-Pro-2.0.2-IDEA173-IDEA182.zip&#10;C:/_Develop/repo/0102_dhome_activity.git/dhome-activity/pom.xml&#10;C:/_Work/develop/01 eclipse configs/checkstyle.xml&#10;C:/_Work/develop/01 eclipse configs/findbugs-exclude.xml&#10;C:/_Work/develop/01 eclipse configs/findbugs-include.xml&#10;C:/_Develop/repo/0117_dhome_coupon.git/pom.xml&#10;C:/_Develop/repo/0112_dhome_activity_manager.git/dhome-activity-manager/pom.xml&#10;C:/_Develop/repo/0112_dhome_activity_manager.git/dhome-activity-manager/src/main/java/com/cmcc/model/manualaward&#10;C:/_Develop/repo/0112_dhome_activity_manager.git/dhome-activity-manager/src/main/resources&#10;C:/_Develop/repo/ssr.job.git/pom.xml&#10;C:/Users/Y/OneDrive/settings/findbugs/findbugs-exclude.xml&#10;C:/Users/Y/OneDrive/settings/findbugs/findbugs-include.xml&#10;C:/Users/Y/OneDrive/settings/ckeckstyle/checkstyle.xml&#10;C:/Solarized Dark..jar&#10;C:/Tamacun.jar&#10;C:/&#10;C:/Applications/tomcat/apache-tomcat-8.0.36&#10;C:/Applications/tomcat/apache-tomcat-9.0.12&#10;C:/_Develop/repo/0112_dhome_activity_manager.git/dhome-activity-manager&#10;C:/_Work/develop/01 eclipse configs/smart_formatter.xml&#10;C:/Program Files/Java/jdk1.8.0_91/bin/jvisualvm.exe&#10;C:/Users/Y/Downloads/VisualVMLauncher.jar&#10;C:/Users/Y/OneDrive/settings/intellij/intellij-colors-solarized/settings.jar&#10;C:/Users/Y&#10;C:/Users/Y/Downloads/Visual Studio 2013.jar&#10;C:/Users/Y/OneDrive/settings/intellij/intellij-colors-solarized&#10;C:/_Develop/repo/0134_dhome_risk.git/risk-provider/pom.xml" />
+    <property name="file.gist.reindex.count" value="4813" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="find.popup.splitter" value="0.24173912" />
+    <property name="idea.background.editor" value="C:\Users\Y\OneDrive\图片\IDEA-backgroud.jpg,40,scale,center" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="kotlin.lastUpdateCheck" value="1549161837948" />
+    <property name="last.imported.location" value="C:/_Develop/repo/0102_dhome_activity.git/dhome-activity/pom.xml" />
+    <property name="lastTip" value="1" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="C:\Users\Y\OneDrive\图片\IDEA-backgroud.jpg&#10;C:\Users\Y\OneDrive\图片\壁纸\水果\1359506974mPUkV7.jpg" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="selected.color.option.type" value="STATIC_FINAL_FIELD_IMPORTED_ATTRIBUTES" />
+    <property name="settings.code.style.selected.tab.ECMA Script Level 4" value="Blank Lines" />
+    <property name="settings.code.style.selected.tab.Groovy" value="Blank Lines" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Blank Lines" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Blank Lines" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="typescript.show.auto.import" value="true" />
+  </component>
+  <component name="com.perniciouspenguins.ideaz.javadoc.JavaDocSyncPlugin">
+    <option name="checkInnerClasses" value="true" />
+    <option name="checkAnonymousClasses" value="true" />
+    <option name="methodDetectionLevel" value="private" />
+  </component>
+</application>
