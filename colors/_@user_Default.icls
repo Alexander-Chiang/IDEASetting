@@ -3,20 +3,12 @@
     <property name="created">2019-01-02T09:26:44</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2019-03-21T17:33:27</property>
+    <property name="modified">2019-01-02T13:43:48</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <attributes>
-    <option name="PARAMETER_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="660e7a" />
-      </value>
-    </option>
     <option name="TEXT">
-      <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="ffffff" />
-      </value>
+      <value />
     </option>
   </attributes>
 </scheme>
